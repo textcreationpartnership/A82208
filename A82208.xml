@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the officers of the garrison of Hull: in order to the peace and settlement of the Kingdome. Presented to his Excellency the Lord Generall, and the Generall Councell. Also a petition, presented to the Parliament of England, by the officers and souldiers of his Excellency the Lords Generalls Regiment of Horse, for the speedy calling of all publicke treasurers to an acompt, and for the speedy taking away of that heavy burden of free-quarter. With the result of the Generall Councell upon the same. By the appointment of the officers at a general meeting, Signed, Jo. Hemingway.</title>
+            <author>England and Wales. Army. Overton's Regiment.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82208</idno>
+            <idno type="STC">Wing D733</idno>
+            <idno type="STC">Thomason E545_17</idno>
+            <idno type="EEBO-CITATION">99865234</idno>
+            <idno type="PROQUEST">99865234</idno>
+            <idno type="VID">164957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164957)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the officers of the garrison of Hull: in order to the peace and settlement of the Kingdome. Presented to his Excellency the Lord Generall, and the Generall Councell. Also a petition, presented to the Parliament of England, by the officers and souldiers of his Excellency the Lords Generalls Regiment of Horse, for the speedy calling of all publicke treasurers to an acompt, and for the speedy taking away of that heavy burden of free-quarter. With the result of the Generall Councell upon the same. By the appointment of the officers at a general meeting, Signed, Jo. Hemingway.</title>
+                  <author>England and Wales. Army. Overton's Regiment.</author>
+                  <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Playford, and are to be sold at his shop in the Inner Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 1. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>A moderate Leveller declaration introduced by a letter from Richard Overton to Lord Fairfax.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Richard, fl. 1646 --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164957:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of the Officers of The Garriſon of Hull: In order to the Peace and Settlement of the KINGDOME.</p>
+            <p>Preſented to his Excellency the Lord Generall, and the Generall Councell.</p>
+            <p>Alſo a PETITION, preſented to the <hi>Parliament of England,</hi> By the Officers and Souldiers of his Excellency the Lord Generalls Regiment of Horſe, For the ſpeedy calling of all publike Treaſurers to an Ac<g ref="char:EOLhyphen"/>compt, and for the ſpeedy taking away of that heavy burden of FREE-QUARTER.</p>
+            <p>With the Reſult of the Generall Councell upon the ſame.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>By the Appointment of the Officers at a generall meeting,</p>
+                  <closer>
+                     <signed>Signed, <hi>Jo. Hemingway.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Playford,</hi> and are to be ſold at his ſhop in the <hi>Inner Temple.</hi> March 1. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164957:2"/>
+            <pb n="1" facs="tcp:164957:2"/>
+            <head>For his Excellency the Lord <hi>Fairfax</hi> at his Head-Quarters in London, Theſe.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>AMongſt others, we are not the leaſt nor laſt in our rejoycings, to ſee your Excellencies &amp; your Armies unanimous moving (by ſerious conſiderations and reall actings) towards the diſcharge of that great ingagement which lyes upon us all for the ſettlement of the Affaires of our Nation, the promotion whereof we have ſo ſo<g ref="char:EOLhyphen"/>lemnly covenanted to aſſert, in order to thoſe ends of Juſtice and Righteouſneſſe, now no longer to be left to the fruitleſſe and inef<g ref="char:EOLhyphen"/>fectuall proceedings of a private and prevailing party in the Par<g ref="char:EOLhyphen"/>liament, who had they proceeded to act, or your Excellency to for<g ref="char:EOLhyphen"/>bear, all our former endeavours for Freedome had but <hi>in-fine</hi> effe<g ref="char:EOLhyphen"/>ctuated our miſery or ſervitude, and with fuller force then ever crowned the Temples of a conquered King, giving our Children after us cauſe to curſe our bones for betraying their Birth-Rights: and leaving us like ſo many guilty Felons with ropes about out necks, to receive the reward of wickedneſſe at their hands, who could have been content to ſacrifice our Carkaſſes to the Foules of the Aire, our Eſtates to Tyranny, and our Conſciences to Tur<g ref="char:EOLhyphen"/>ciſme.</p>
+            <p>The conſideration hereof (ſome few weekes ſince) drew us of this Garriſon by a Letter to your Lordſhip, and a Petition to the honeſt party in the Parliament, to devote (as now to declare) our reſolution to live and die with your Excellencie, &amp; your Army in what you have ſo mutually remonſtrated, or ſhall proceed upon in oppoſition to all thoſe actings which we have hitherto found too narrow to comprehend, and too weak to conforme thoſe Free<g ref="char:EOLhyphen"/>domes which we ſtill purſue.</p>
+            <p>But it may be objected, that Counſell in the ſettlement of the Affaires of a State, is a work belonging rather to the long Robe then the ſhort; few Armies having ever been trafted with ſuch un<g ref="char:EOLhyphen"/>dertakings;
+<pb n="2" facs="tcp:164957:3"/>yet if providence hath put us upon it, I truſt it would better become us to ſtand like ſtedfaſt Rocks for defence of Com<g ref="char:EOLhyphen"/>mon Freedome, then after all our endeavours to digreſſe for baſe and by-ends, to follow fortune (in her fickle flatteries) who lends her ſmiles, as Exactors do money, to undoe the Debter.</p>
+            <p>But I truſt we ſhall no longer agreſſe into reluctuall and turbu<g ref="char:EOLhyphen"/>lent times; Conſcience and a good cauſe will keep up the depreſ<g ref="char:EOLhyphen"/>ſed ſcale in every condition; In the Interim, we cannot over-in<g ref="char:EOLhyphen"/>dulge the care of our Country, whileſt no other Law is left, but blotted and corrupt Commons, made forth by men of private ſpi<g ref="char:EOLhyphen"/>rits, who eye our beſt actions by miſrepreſenting proſpectives. Theſe ſhadowes (as we may call them) have at the noontide of our diſtreſſe crept behind like Dwarfes, in the evening ſtalked by us like Gyants, and (inſtead of helping) have hunted our honeſt endeavours to a ſun-ſet.</p>
+            <p>Yet ſome may ſay: who ſtops the high attempts of State, lets looſe the reines of Government; but to me my Lord it ſeems much better to periſh in a good performance, then baſely to pro<g ref="char:EOLhyphen"/>ſtitute the well-being of a Nation to thoſe principles of abuſed Power, in the darkneſſe of whoſe deeds ſecret accuſations will ſuggeſt ſad and ſolitary conſiderations.</p>
+            <p>I could therefore wiſh that the great Truſtees of our times would rather incircle themſelves in a Character not commacculate with the deſerved daſhes of diſgrace, then ſpend their envy upon thoſe faithfull Agents for Common Freedome; but if otherwiſe, your Excellencie may aſſure your ſelf the great &amp; high God wil not alwaies allow the crafty cunning of contriving boſomes to deveſt this Army of that honor it hath bought with the blood of ſo many Princely Spirits.</p>
+            <p>I ſpeak not this, my Lord, to arrogate any thing to your own or your Armies actions, for we have ſeen enough to make us forſake ourſelves in our ſtrongeſt valuations; all ſucceſſes are unſancti<g ref="char:EOLhyphen"/>fied where ambitions boaſt a merit; therefore in this laſt act of our Age, let us not as men (my Lord) but as Chriſtians, relate our reſolutions to the goodneſſe of our cauſe, not the greatneſſe of our courage. Thus let us ſtand (though fatally reſolute) to fall under, or finiſh that Freedome for which your Excellencie dares to be ſo good in theſe bad times, or to reſolve rather to periſh with
+<pb n="3" facs="tcp:164957:3"/>your honeſt Officers and ſouldiers, then otherwiſe to enjoy the Genius of a temporall happineſſe.</p>
+            <p>We have hitherto experienced, the power and policy of the greateſt Potentates cannot divert the decrees of God againſt the Injuſtice of their actions; all concurrences fall forth to the fur<g ref="char:EOLhyphen"/>therance of thoſe fatall commutations, for the effectuating where<g ref="char:EOLhyphen"/>of, the piety of our natures are pricked forward, and the counſell of our Adverſaries (like <hi>Achittophels</hi>) infatuated and confoun<g ref="char:EOLhyphen"/>ded. Yet ſuch is the pride of many ſpirits, that they will ſtill ſtrive to caſt ſo much malice upon the ſtory of our times, as cannot con<g ref="char:EOLhyphen"/>ſiſt with the ſtile of a modeſt pen to reply upon, as if they intended not to forget us in their graves, or to be equally cruell to our me<g ref="char:EOLhyphen"/>mories: Therefore all our beſt actions or intentions are by their malicious Alchymy ſubſtracted into Crimes, or where (they ſhould be honourably mentioned) either ſcornfully tranſmitted, or by injurious conſtructions perverted; but if hereafter their injuſtice ſuffer under a more deſerved Doom, they may ſay, this obſervation hath the vertue of an Oracle in it. In the Interim, I ſhall leave them to their own deluſions; becauſe no argument hath vertue, nor ver<g ref="char:EOLhyphen"/>tue argument enough to avoid them.</p>
+            <p>Pardon my Lord, that I have deviated from my more immedi<g ref="char:EOLhyphen"/>ate inſtruments and intentions; in purſuance whereof Major <hi>Waterhouſe</hi> (as the repreſentative of this Regiment and Garriſon) is appointed to preſent your Excellencie &amp; your General Councell with our particular concernments, and mutuall concurrences, as al<g ref="char:EOLhyphen"/>ſo that by admiſſion to your Councells, he may adminiſter his aſſi<g ref="char:EOLhyphen"/>ſtance towards the accompliſhment of thoſe remonſtrated princi<g ref="char:EOLhyphen"/>ple, whereunto we not only pray your Excellencie ſpeedily to pro<g ref="char:EOLhyphen"/>ceed, but alſo (as we have accordingly declared) promiſe to at<g ref="char:EOLhyphen"/>tend thoſe ends, which will not onely render you the full honor of your Armes, but (even in theſe worſt times) give you Chara<g ref="char:EOLhyphen"/>cters amongſt the miracles of worthyeſt men; in the Interim it ſhall be my honor to remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Hull</hi> 
+                  <date>January 9. 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt obedient and Faithfull Servant, <hi>R. Overton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:164957:4"/>
+            <head>From your Excellencies Garriſon of Kingston upon Hull, <hi>1648.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu owe not more to us then to your own vertue, that we make bold to requeſt your acceptance of our compliance with your Remonſtrance, as to preſent our Petitionary Appeale to the Parliament: in publike purſuances, none are to be omitted but you in ſo particular a concernment (on our parts) eſpecially to be ſought unto, for that our actions have hitherto proſpered under your unequalled Conduct: And (which is more) that you appea<g ref="char:EOLhyphen"/>ring a firſt mover to what we have approved and comported with, it lieth, we hope, in your power not only to accept our ſervice, and therein to pardon our ſlowneſſe, but through the goodneſſe of Almighty God, to make this Kingdome and all Europes Prote<g ref="char:EOLhyphen"/>ſtant party happy: If to your other Excellencies which have drawne a ſhade over the actions of greateſt Princes, you be pleaſed but to adde an unwearied perſeverance towards the attaining of thoſe ends, without which we had better when we ſtruck our Eno<g ref="char:EOLhyphen"/>mies, have turned our ſwords upon our own throats; We can<g ref="char:EOLhyphen"/>not in the limits of a Letter make rehearſall of the particulars expreſſed in your Lordſhips late Remonſtrance, with every tittle whereof we totally comply; neither is it needfull herein to denote how or by whom they have hitherto been made fruſtrate unto us and the Kingdome. We do now moſt cordially agree to what we could ſooner have received, but we hope, what was formerly fore<g ref="char:EOLhyphen"/>ſeen and fore-thought, is now more ſeaſonably and ſucceſſefully ſought. We reſt confident the Remonſtrance will both ſatisfie the world, and convince our Adverſaries of the Juſtice and neceſſity of our preſent undertakings, to which if the ſearcher of all hearts vonchſafe his accuſtomed directions, your Excellency need not doubt but by his bleſſing on our loyall hearts, to atteſt unto the world your willingneſſe to put a period to the miſeries, &amp; to per<g ref="char:EOLhyphen"/>fect the peace of your oppreſſed Countrey-men: And ſeeing your Lordſhip hath dared to be good in bad times, we are confident you will not leave us when they grow worſe; and though with your Lordſhips leave we might in this place with folded hands ſit down with as much probable ſecurity as others, yet we cannot imitate
+<pb n="5" facs="tcp:164957:4"/>thoſe unworthy Champions who hoped their fiſh ſhould ſwim f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e when the Republike ſunk. Your Excellency knowes well how much herein our conſciences, honours and ſafeties are concerned, to manifeſt the juſtice we aſſert, which we can never do whileſt we leave greater Monſters unquelled then as yet we ever grapled with, from whom without any breach of Prerogative or Priviledge, we may borrow or uſe that expreſſion unfainedly which they did hypocritically, that if men faile us herein we expect our reward in heaven. And to this end we beſeech the God of Lights ſo to o<g ref="char:EOLhyphen"/>pen our eyes, that in this our day of viſitation we may truly underſtand what belongeth to our peace, ſince it is ſo much indea<g ref="char:EOLhyphen"/>voured to be hid from our eyes, and to the God of peace we re<g ref="char:EOLhyphen"/>commend your Excellency, with an abſolute tender of our utmoſt endeavours towards the reſtauration of this dejected, bleeding, dy<g ref="char:EOLhyphen"/>ing State, that for the future feare may wait cloſe on all the plot<g ref="char:EOLhyphen"/>ters of miſchiefe, and that comfort may be confirmed to afflicted vertue.</p>
+            <closer>
+               <signed>Sir, we are Your Excellencies obedient, faithfull Servants and Souldiers, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="6" facs="tcp:164957:5"/>
+            <head>The Declaration of the Officers belong<g ref="char:EOLhyphen"/>ing to the Garriſon of Hull.</head>
+            <head type="sub">Preſented to his Excellency the Lord Generall <hi>Fairfax,</hi> and his General Councell, in order to the Peace and ſettlement of the Kingdome.</head>
+            <p>VVE doubt not but the unſatisfied party of this a<g ref="char:EOLhyphen"/>buſed Kingdome will wonder that we ſtill re<g ref="char:EOLhyphen"/>new our reiterated Declarations, as if we inten<g ref="char:EOLhyphen"/>ded to turne State Reformers in their ſteads who have therewith hitherto been intruſted. It is true, we never ex<g ref="char:EOLhyphen"/>pected to be put upon ſuch imployments; nor find we any felicity therein: but having by all means ſubmiſſively ſhewed our confor<g ref="char:EOLhyphen"/>mity to the old rule of <hi>Cuncta prius tentanda,</hi> &amp;c. yet inſtead of re<g ref="char:EOLhyphen"/>dreſſe, finding nothing but delay, we are conſtrained to ſearch into the ground of this ingratitude, and to expoſe or diſplay it to the view of the world.</p>
+            <p>Herein we conceive our ſelves ſufficiently authorized by the practice of the beſt State, and the precept of the beſt of Oratours, who in his Oration againſt <hi>Verres,</hi> hath taught us, that <hi>in publice crimine quilibet non debet non eſſe accuſator,</hi> and where ſuch practices ſhall appear inconſiſtent with the welfare of a Nation, oppor<g ref="char:EOLhyphen"/>tunity to check them and provide for a remedy.</p>
+            <p>Nor can we any waies doubt of a ſucceſſe ſutable to the reſt of our undertakings, being aſſured, that our proſperous Armies were never ſupported by a better Cauſe; and therefore that you be no longer held in ſuſpence, what it is that we (as well as others) declare againſt, or do deſire, be pleaſed in the firſt place ſeriouſly to conſider your condition before theſe Warrs; ſecondly, The rea<g ref="char:EOLhyphen"/>ſon of our ingaging in them; thirdly, The promiſes of our Pub<g ref="char:EOLhyphen"/>lique Truſtees in caſe our ſucceſſes enabled them to a performance; and laſtly we having rendred them ſuch as they deſire to be, how well they have acquitted themſelves of their promiſes and truſt.</p>
+            <p>In ſeverall Declarations, eſpecially in that of December, 1640.
+<pb n="7" facs="tcp:164957:5"/>they have repreſented to us the ſtate of this Kingdome, groaning under the arbitrary preſſures of an unlimited Soveraignty by Ship-moneys, Monopolies, innovations of Prelates in Church-Diſci<g ref="char:EOLhyphen"/>pline, interruptions of Parliamentary proceedings by the Regall diſſolving Vote, with the other illegall Tazes and tyrannies, which we only point at in this place.</p>
+            <p>For theſe no cure was held out ſo catholique as a Parliament, though even Generall Councells have foully erred in matters of Faith, and that of the higheſt nature, yet we hoped better things from our Nationall Convention, inſomuch that never any people ſo thirſted for a free Parliament as we; never any people ſo aſſiſt<g ref="char:EOLhyphen"/>ed a Parliament in theirs and the publike neceſſity. Have we not rendred their Councells ſucceſſefull, and (through Gods aſſiſtance) inabled them to reſtore us to all thoſe bene<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of ſafety in perſon, propriety in goods, and purity in profeſſion, which they ſo fre<g ref="char:EOLhyphen"/>quently declared to aſſert?</p>
+            <p>And though we are not ignorant how remote our condition is from thoſe ends, or how little our preſſures are abated, yet can they not deny but that we have diſcharged our parts in the field; which if gainſaid, Pulpits and printed Gratulations would con<g ref="char:EOLhyphen"/>vince them: Had they in their ſedentary devoirs been ſo ſucceſſe<g ref="char:EOLhyphen"/>full in the ſervice of the State, by whoſe authority they act, out preſſures had by this time been abated, reformation ſetled, debts payed, <hi>Ireland</hi> relieved, and the ſtreame of the publike disburſe<g ref="char:EOLhyphen"/>ments reduced to its proper and ancient channell.</p>
+            <p>But on the contrary, to our great grief we ſee, our diſtractions grow greater, and our wounds wider, by the unreſtrained appe<g ref="char:EOLhyphen"/>tites of ſelf-ſeeking parties both in Church and State, as if the ene<g ref="char:EOLhyphen"/>my of mankind did deſpaire to accompliſh his deſignes againſt Chriſtianity by the Romiſh Jeſuite, without a Proteſtant Prieſt and peſtilentiall Politician; the little fingers of whoſe inſolency and avarice are grown heavi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the loynes of Soveraignty or Epiſcopacy. For, beſides what our State-mongers have perverted to private ends, ſome of the Long Robe, who have preached a<g ref="char:EOLhyphen"/>gainſt Pluralities, have annual ſalaries amounting almoſt to 1000. l. <hi>per annum.</hi> If we inquire what their imployments are to anſwer ſuch in-comes, we ſhall finde amongſt many little beſides the preaching of themſelves and their owne authority over their
+<pb n="8" facs="tcp:164957:6"/>fleeced flocks: yet whatſoever ſome of them decree in the Church, or the Parliament in the State; muſt (as if infallible) be recei<g ref="char:EOLhyphen"/>ved with an implicite obedience, no diſpute, no Petition, no Re<g ref="char:EOLhyphen"/>monſtrance, unleſſe it ſpeak the ſence of a prevailing party in the Parliament, and be uſhered in by a totall reſignation of our ſelves, can be accepted.</p>
+            <p>To this tameneſſe have we ſuffered our ſelves to be brought, and might ſo perhaps have continued, had not the late actings of our Truſtees ſufficiently informed us, that warr cannot be too much ſuſpected which is obtruded upon termes not to be looked into. And therefore if the attempts of ſuch lawleſſe uſurpers run ſo high whileſt we have a faithfull Army on foot, what will they do when we are disbanded, and they backt with an indiſputable power! If they once dare to declare us enemies for but intending to Petition for due pay and deſerved indempnity, how boundleſſe would they be (if under private and popular Notions) they could without controule purſue their own intereſts and appetites!</p>
+            <p>Is not therefore the preſent actings of our Officers and Army proper to ſettle Peace, as to diſappoint the purſuances and plots of private ſpirits? would it not better become us to die with our ſwords in our hands, then (after we have vindicated the publique Liberty againſt the power and pride of Princes) to ſuccumb un<g ref="char:EOLhyphen"/>der the ſervitude of our fellow-ſubjects, how great ſoever? for which of our good deeds do we deſerve to be deſtroyed? are they angry becauſe we are about to expedite the peoples Peace and pre<g ref="char:EOLhyphen"/>ſervation? are we not therefore properly provoked to ſnatch the wreath from off their brows, which (by the mercies of the Al<g ref="char:EOLhyphen"/>mighty) our late conquering ſwords have crowned them with! is this the requitall and income of all our difficulties undergone, perills paſt, lives loſt? Is this the fruit of our victory acquired? have we for this ſo frequently removed their foes and feares, ſecu<g ref="char:EOLhyphen"/>red their ſafety, or rendred them capable of the full execution of due, but deferred Juſtice? Was it not for this cauſe we covenanted, hazarding our lives ao preſerve our Liberties? yet after all muſt we ſit ſtill to ſee oppreſſions unſuppreſt, Juſtcie perverted, grie<g ref="char:EOLhyphen"/>vances augmented, and Tyranny Re-inthroned?</p>
+            <p>In this ſo ſad a condition may we not with <hi>Adrian</hi> the Empe<g ref="char:EOLhyphen"/>rour cry out, <hi>Multitudo Medicorum me perdidit?</hi> may it not pro<g ref="char:EOLhyphen"/>perly be applyed to the late prevailing party in our preſent Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="9" facs="tcp:164957:6"/>whoſe apparent declinations from their honoured underta<g ref="char:EOLhyphen"/>kings (whether we eye their private letereſts, or unparliamentary proceedings) looke with ſo foule a face upon us, as we may juſt<g ref="char:EOLhyphen"/>ly queſtion, whether there be not as great a neceſſity of transfer<g ref="char:EOLhyphen"/>ring that Truſt from its abuſers, as erſt to make uſe of their un<g ref="char:EOLhyphen"/>dertakings? Nay, we may boldly aſſert their carryings on for pre<g ref="char:EOLhyphen"/>tended preſervations, have been ſo coſtly to us, and ſo commodi<g ref="char:EOLhyphen"/>ous to themſelves, that there is no capacity ſo weak, but too aptly apprehends it for a truth, that it is better to be ſtung with one Hornet, then a whole neſt; better one Pope, or one Tyrant then a multitude: may never ſo malignant a Genius poſſeſſe a Parlia<g ref="char:EOLhyphen"/>ment as to render our endeavours to regaine true liberty uſeleſſe.</p>
+            <p>Yet how is the State of England altered, and from the pity of its enemies become the envy of her falſe and feigned friends, for whom our care and conſcience gave us courage to ingage; our courage begot their preſent power, their power our ſervitude and calamity. A ſtrange kind of requitall ſome will ſay, that thoſe heads ſhould cut off theſe hands, by which they have climbed to that dezelling greatneſſe, from whence they but giddily diſcern either themſelves or us, whom they ſtill ſtrive to thruſt even with the hazzard of the Nation and their owne ruine, beneath the honour of our Armes into a condition of ſervitude, beggery and baſeneſſe; witneſſe the contemptible price of blood paid to ſome, whileſt o<g ref="char:EOLhyphen"/>ther impoveriſhed Petitioners are conſtrained to ſtand perpetuall Centinells to want and wrong, whileſt ſome of their own indeered darlings lie ſtowed in plenty and ſecure repoſes, being in as deep Arrears for ſervice to be done, as others are for pay that's due.</p>
+            <p>Certainly, the free and faithfull Commoners of England did not intruſt them thus to act their own ends, or to accumalate and divide ſuch vaſt proportions of treaſure amongſt themſelves and Sycophants, whileſt worthier Members, and more publike ſpirited perſons are famiſhed and defrauded: this is ſo cleare a truth, as he that runs may read. Have we any thing deſirable here more then the care of our conſciences, the freedome of our perſons, community of friends, and propriety of goods? In all which ſhould we declare how much both our Countrey and we have ſuf<g ref="char:EOLhyphen"/>fered in a patient expectance of a happy iſſue, we ſhould adde to our calamities one vexation more then ever our Truſtees intended
+<pb n="10" facs="tcp:164957:7"/>us; for had they believed that any durſt have been ſo bold us to arraigne their actions, we may charitably think they would have been more wary in diſobliging thoſe for whom they are and ought to act.</p>
+            <p>For thoſe laſt ſix yeares, what hath been the conſtant cry of the prime Potentiaties in our great Councell, but the Liberty of the Subject, and the Priviledge of Parliament; the former whereof we now ſee is almoſt ſwallowed up of the latter, witneſſe the Goale-books of Newgate, the Tower, the Gatehouſe, and other places of Purgatory, where publike ſpirited perſons lie impove<g ref="char:EOLhyphen"/>riſhed and impriſoned in a hopeleſſe and helpleſſe condition, lan<g ref="char:EOLhyphen"/>guiſhing after a legall tryall: Be aſſured all ye native noble En<g ref="char:EOLhyphen"/>gliſh, that the ſame contrivance which provides mannacles for their hands, would in time ſee that no fetters ſhould be wanting for your feet.</p>
+            <p>But muſt the Medium whereby we are conveyed into this pre<g ref="char:EOLhyphen"/>tended bleſſedneſſe, and by which ſo many millions have been ſerewed forth of ſeduced purſes, be no other then that old and ancient Qualepipe, publike neceſſity; Oh invincible argument! endleſſe neceſſity, which perhaps our abuſers did never reſolve to have done withall whileſt we had either juice to ſqueeze, or tame<g ref="char:EOLhyphen"/>neſſe to ſuffer it: Is any Art either ancient or moderne omitted to exhauſt the treaſure of theſe times? witneſſe the reported di<g ref="char:EOLhyphen"/>vidend of ſome hundred thouſand pounds amongſt ſome ſelect Members, to recruit not ſo much perhaps their pretended loſſes, as their crack'd eſtates, whilſt the publike debts of the Kingdome with our dearly earned Arrears, are throwne in amongſt things moſt fit to be forgotten.</p>
+            <p>Surely ſtrangers might think the Parliamentary Revenues were at a low ebbe, when they are ſeen, and ſeem compelled to ſhuffle off their friends and the peoples ſupporters; but were ſome of the Receipts accounted for, it would happily ſtrike amazement into all that have but ſleightly conſidered it; for ſetting aſide all the rooking Committees both in City and Countrey, whoſe names and natures might almoſt call the profeſſion of Chriſtianity it ſelfe in queſtion, do but conſider the vaſt Contributions of Aſſoci<g ref="char:EOLhyphen"/>ated and reduced Counties, Deanes and Chapter Lands, Pole-mo<g ref="char:EOLhyphen"/>neyes, Sequeſtrations, old and new loanes on Publike Faith, Sei<g ref="char:EOLhyphen"/>zures
+<pb n="11" facs="tcp:164957:7"/>on the whole Revenue of the Crowne and Miter, fifty Sub<g ref="char:EOLhyphen"/>fidies at once, fifth and twentieth part, Adventures, free gifts, Taxes for Britiſh moneyes for almoſt ruinated, and (if ſome ſay true) cheated Ireland, beſides the vaſt accumulations of treaſure by Compoſitions and Pardons, there being, as we are informed, at the end of the firſt Warre about or above 8000. Compounders, whoſe Compoſitions if computed but at 200. l. a man one with an<g ref="char:EOLhyphen"/>other, which in the generall is much undervalued, and their par<g ref="char:EOLhyphen"/>dons at 36. l. a piece, the totall when levied, which undoubtedly was long ſince done, according to the exacteſt Computation, would almoſt amount to eighteen Millions, to which the Cuſtomes and Excize throughout the Kingdome addes many thouſands more weekly: And yet ſome of our Stewards have been pleaſed to put on ſuch a vizard of poverty, that two hundred thouſand pounds could not be paid to our Brethren the Scots, without the ſale of Biſhops Lands; thus a new device and tax muſt alwaies do the worke in hand, ſtill to ſecure and increaſe the ſacred heap; a bank doubtleſſe were it brought together into one bulke, which ſome of them have courteouſly carved to one another, would vie the treaſure af all the Jews in Spain or Italy.</p>
+            <p>Can we then believe that theſe our friendly Feoffees after the contraction of ſo much guilt would ever patiently return to their private fortunes? or give up their accompts to their fellow-Com<g ref="char:EOLhyphen"/>moners of England, whoſe Stewards they are, and erſt had the modeſty to acknowledge, that the power was ours by which they acted? which if true, as undoubtedly it is then are we certaine that the laſt appeale and reſolution muſt be to and from us. Not<g ref="char:EOLhyphen"/>withſtanding this they would become our gront Lords, ſome of them having beſides the corrupt acquiring of their Burgeſſeſhips, ſate ſo long as to bring in their children to ſit at the Sterne of State, meaning no doubt to tranſmit this new principality from Gene<g ref="char:EOLhyphen"/>ration to Generation. But have we in the interim any aſſurance of either Law or Liberty, ſave what proceeds from their arbitrary breathings? What did ever any Nation undergo by a forraigne conqueſt, which hath not in this laſt eight yeares been practiſed upon this?</p>
+            <p>
+               <hi>Tacitus</hi> the wiſeſt of the Romane Hiſtorians ſew forth, that the times were ſo baſe and bad under <hi>Nero</hi> and <hi>Domitian,</hi> that none
+<pb n="12" facs="tcp:164957:8"/>durſt complain of them, the people being grown ſo tame with ſuf<g ref="char:EOLhyphen"/>ferance, that they had almoſt loſt their memories. But it may be objected, there was never any Government which pleaſed all, or hath not upon tryall and experience had its inconveniences. The ſeverall States of Sparta, Athens, and Rome it ſelf, thought they had well provided againſt the Tyranny of their Princes by their <hi>E<g ref="char:EOLhyphen"/>phori, Decemviri,</hi> &amp;c. yet theſe found ſuch a venery in exerciſing their ſeverall powers on thoſe that gave them, as in fine a new publique neceſſity was diſcovered which way to put thoſe down, who had deſerved no better whileſt they were up.</p>
+            <p>We might draw the Parallel nearer to our times, ſhould we ex<g ref="char:EOLhyphen"/>amine whether ſome of our Repreſentators have not tranſcen<g ref="char:EOLhyphen"/>ded in their tyrannies, whatſoever hath been acted by thoſe fore<g ref="char:EOLhyphen"/>mentioned names of infamy: or ſecondly, whether the injured Free<g ref="char:EOLhyphen"/>men of England may not juſtly reaſſume their miſimployed power, and call the Authors to account for acting contrary to common truſt, ſafety, and ſatisfaction: but it will be more benificiall to pitch upon expedients for Peace and Freedome, or for the future to ſecure our ſelves againſt all arbitrary Powers, whether Regall or Parliamentary.</p>
+            <p>But by the way, peradventure ſome may object and ſay, ſuppoſe this ill compacted body of Parliamentary power, be by the preſent moving of the Army either extinguiſhed or reduced to a better temper, and that the diſpoſall of the Supreme Power ſuffer under the Sword, what aſſurance is there that the ſouldier will not miſ<g ref="char:EOLhyphen"/>imploy the power which we have intruſted with thoſe whom you are about to take it from?</p>
+            <p>This is <hi>Argumentum ad hominem,</hi> and ſeeing that the intentions of men cannot be looked into, our beſt conjecturall light muſt a<g ref="char:EOLhyphen"/>riſe from precedent actions, and in this particular we dare ſtand the atteſt of our moſt crying adverſaries; we neither have nor de<g ref="char:EOLhyphen"/>ſire better witneſſes touching our deportment, then your ſelves, we wanted neither preſidents nor opportunities to have inriched our ſelves by ſecret fraud or open violence ever after our Army appeared ſo conſiderable at Naſeby; what might we not have done when we marched from New-market through London, or what can hinder us now that we are in it from making our ſelves Maſters of that whereby others become both wretched and miſerable?
+<pb n="13" facs="tcp:164957:8"/>but we truſt, that power which hath hither to given us ſo many te<g ref="char:EOLhyphen"/>ſtimonies of Mercy, will to the end actompany us in all our de<g ref="char:EOLhyphen"/>portments, which if compared with the tyrannicall fleecings of ſe<g ref="char:EOLhyphen"/>verall Truſtees or their ſubſtituted Committees, we doubt not but reaſon will promp you rather to embrace a protection from thoſe for the preſent, whoſe civilties have oredone expectation, then longer to lye under their inſultings which have hitherto ſo fouly falſified.</p>
+            <p>Beſides, if we had been ſo baſe as to chaffer for your Freedome, temptations to take us off have not been wanting, even by ſome of thoſe who have formerly been fo fierce againſt us; we ſpeak not this to kindle a fire-brand to tye <hi>Sampſon's</hi> foxes together by the tailes; but rather to ſtirre you up to take notice in time what danger you are in to be undone: let Weſtmimter witneſſe it by the many red eyes and wet handkerchiefs of poor Widdowes wai<g ref="char:EOLhyphen"/>ting for the wages of their deceaſed husbands, beſides halfe-ſtarved Officers attending the Returnes to their Petitions, with charges great as the ſucceſſe is little, whileſt kindred and creatures have their ſuggeſted ſervices rewarded, and their pretended loſſes plen<g ref="char:EOLhyphen"/>tifully repay'd; the account whereof is frequently caſt up falſe by kindred, airy Courtiers, and oyly mouths, and formall flatterers; yet in the mean time thoſe of more weighty and ſubſtantiall worth have neither Oratours nor Advocates to mention their me<g ref="char:EOLhyphen"/>rits, or to write Narratives of their neglected neceſſities.</p>
+            <p>Oh! whether is <hi>Aſtrea</hi> fled? what is become of Common Ju<g ref="char:EOLhyphen"/>ſtice, that moſt eſſentiall part of Magiſtracy! have our politique Bo<g ref="char:EOLhyphen"/>dies loſt all the life-bloud of Love? can theſe Philiſtines put forth <hi>Sampſon's</hi> eyes, and not expect that a free people inraged by the leſſe of their dear purchaſed Liberties ſhould pull down the Pillars of their abuſed power? When Magiſtracy degenerates into Ty<g ref="char:EOLhyphen"/>ranny, are we not diſobliged from our obedience, and put upon the freedome of naturall indeavours for preſervation? Surely the Sword of Juſtice was not committed to their keeping to cut our throats: He is highly ignorant and blind, who thinks humane obedience binds us to ſleight a publique preſervation. In this re<g ref="char:EOLhyphen"/>ſpect a free people never want a full power. Tyranny is Tyranny in whomſoever, and whereſoever reſiſtable. Nature in the inferiour creatures fortifies her ſelf defenſively, and hath her nobler peace of wonder a leſſe priviledge?</p>
+            <pb n="14" facs="tcp:164957:9"/>
+            <p>Their own Deciarations have taught us, that all power <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtive and conditionall on our part; therefore King <hi>Jan<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he had as great an itch of Monarchy upon him as other <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pro<g ref="char:EOLhyphen"/>claimed in open Parliament, that, <hi>Nihil aliud pateſt Rex quám quad Iure poteſt.</hi> And <hi>Bracton de Corona</hi> tells us, <hi>Quande Rex <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> per Legem r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>git, non ampliùs Rex eſt, ſed Tyrannus.</hi> The beſt of Primces ever kept their bounds, acting to Gods greateſt glory, knowing the Soveraig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> power to be the Peoples, from whence they derive their Principalities, next that great Law-giver, who aſſures u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> That the ſervice due from man to man is not coercive, or diſtinguiſhed from equall nature, ſave for ſafety ſake. It is but the overflowings of Fancy, or an Optique miſtake that lets looſe the reines to the ſence of a lawleſſe Soveraignty, provoking Princes to ſuppoſe themſelves greater then their Maker ever meant. Surely Parlia<g ref="char:EOLhyphen"/>ments ceaſe to be Parliaments, when they ceaſe to be juſt Powers; as Kings ceaſe to be Kings, when by overſtretching the reints of Government, they forget to be good and juſt: therefore Juſtice defines Magiſtracy, as law leſneſſe doth tyranny and arbitrary uſur<g ref="char:EOLhyphen"/>pation.</p>
+            <p>How much then are we concerned to oppoſe all illegall pro<g ref="char:EOLhyphen"/>ceedings? how much more as Souldiers obliged, who have been more deſperately ingaged, and (for ought we yet find) ſo dange<g ref="char:EOLhyphen"/>rouſly deluded, in being made the unhappy inſtruments of advan<g ref="char:EOLhyphen"/>cing private intereſts with publike ſpirits. Seeing therfore we have hitherto been perverted, as to promote their private projects, who care not if we died like dogs, ſo they might live like Prinees, who give us cauſe to deſpaire of any good ever to proceed from them. And in as much as none can merit the title of true Patriot, who in<g ref="char:EOLhyphen"/>deavour not to deliver their countrey from all her calamities; we do therefore ſee how neceſſary it is we be no longer blinded in our obedience, or ſhackled by our Fellow-ſubjects, in ſubordination to their lawleſſe luſts, who in the nature of their imployments are the Kingdoms Servants to mannage its Intereſt, not their own, further then conjoyned with ours, which they have hitherto too much contemned or trampled upon.</p>
+            <p>Since therefore to their Papall predominance, they would have added a Popiſh infallibility, whoſe Decrees admit no diſpute or
+<pb n="15" facs="tcp:164957:9"/>rejection, but reſolved so remain the everlaſting Land Marks of out dre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, in reference to their own <gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>eries and our blind obedience. It will behove us now at laſt to pray Almighty God to reſtore us to our wits, for if he make us wiſe (through his goodneſs and merey) we may make our ſelves happy.</p>
+            <p>Now that the world may know we ſtrike only at the perſom of offendors, not at the Parliament, but the corrupted party in it; we do therefore in the preſence of Almighty God whoſe preſence we expect, according to the ſincerity of our ſouls) publiſh and declare to the whole Kingdom, That upon ſerious thonghts and due can mina<g ref="char:EOLhyphen"/>tion, we have found and do believe a prevailing party in the Patlia<g ref="char:EOLhyphen"/>ment to be the propagators of many miſeries and calumities which now ſit heavy on this Kingdum, and that their long continuance in this uſurped Soveraignty is litterly inconſiſtent with all our ſufeties; not that we are ignorant of, or unwilling to acknowledg the ſpecial power of Parliaments, or that we believe all the Members to have de<g ref="char:EOLhyphen"/>ſerved this ſo ſevere a centure, for we are confident of the contrary: Yet inaſmuch as it is rather frequency of Parliaments then perpentity, that muſt make us happy, the latter being too great a temptation to Tyranny; we with the reſt of our fellow ſubjects and foldiers (who by the confeſſion of our Truſtees, have within our ſelves the ſupream and original power to provide for the Common Safety, when we find, as now we do, our truſt abuſed and betrayed,) do therefore declare;</p>
+            <p n="1">1. That, together with the King and his Capital Creatures, the e<g ref="char:EOLhyphen"/>vil Members of both Houſes have juſtly forfeited their Power and Priviledg; and to the end therefore that others who ſhall ſucceed in the managements of this Truſt, may know that they act not only their own buſineſs, but ours; therefore that this Kingdom may at laſt acquire its baniſhed peace and welfare, we do in the firſt place, with the reſt of the Army, deſire the ſpeedy execution of due and diſtributive Juſtice to all and every Capital Offendor.</p>
+            <p n="2">2. That all inferior Delinquents do ſubmit to the preſent judicial Power.</p>
+            <p n="3">3. That a ſpeedy period be put to this preſent Parliament, and a new Election of faithful Members made.</p>
+            <p n="4">4. That there be a ſucceſſion of free and future Parliaments, with ſecure proviſſions for their meeting, ſitting and ending; ſuch neither electing, not to be elected, as were in Arms or other ways pre-engaged againſt us.</p>
+            <pb n="16" facs="tcp:164957:10"/>
+            <p n="5">5. That ſo many of the old Members as have not crept in by cor<g ref="char:EOLhyphen"/>ruption, (and againſt whom there ſhall not appear crimes ſufficiently ſcandalous to make them incapable,) may be incouraged and conti<g ref="char:EOLhyphen"/>nued, until the diſſolution of this preſent Parliament.</p>
+            <p n="6">6. That all Elections may be according to due and equal diſtribu<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="7">7. That by an univerſal and mutual Agreement, it be enacted and decreed, <hi>in perpetuam rei memoriam,</hi> that the power of all future Repreſentatives may be inferior only to that of the people, in order to the preſervation of them in their juſt and proper Rights, and that the obſervation thereof be added to the oath adminiſtred to every Member upon his admiſſion into the Parliament.</p>
+            <p n="8">8. That henceforth the things of Common Right and Juſtice be left to the Laws well Regulated, and proper Officers being appointed for ordinary matters, a Councel of State may more aptly apply them<g ref="char:EOLhyphen"/>ſelves to thoſe extraordinary adminiſtrations of Parliamentary Power.</p>
+            <p n="9">9. That the publique Petitions of the people may be more ſeaſona<g ref="char:EOLhyphen"/>bly conſidered, and ſpeedily diſpatched (as is forementioned in the large Remonſtrance) it will be requiſite to afford Liberty of en<g ref="char:EOLhyphen"/>tring diſſents againſt ſuch Repreſentatives as appear either unfaithful or unpliant to the Truſt of the People.</p>
+            <p n="10">10. That all future Kings be hereafter elected by the Peoples Re<g ref="char:EOLhyphen"/>preſentatives upon conditional truſt, or without claiming any nega<g ref="char:EOLhyphen"/>tive voyce againſt, or beyond the power of <hi>Parliaments.</hi>
+            </p>
+            <p n="11">11. That the ſucceeding <hi>Parliament</hi> may remember the ſelf-de<g ref="char:EOLhyphen"/>ing Ordinance, and ſpeedily purſue an impartial account of the King<g ref="char:EOLhyphen"/>doms imbezelled treaſure, which being diſcovered we doubt not but ſufficient will be found to diſcharge the publique debts of the King<g ref="char:EOLhyphen"/>dom, and ſpeedily to make <hi>Ireland</hi> pay the price of that blood which it hath ſo inhumanly ſhed.</p>
+            <p n="12">12. That the matters of general Settlement be propoſed by the <hi>Parliament,</hi> and agreed unto with the ſubſcriptions of the People, the like Award may be made, and in the ſame caſe required to be perfor<g ref="char:EOLhyphen"/>med by all ſucceeding Kings, and other publique Officers of State or Truſt.</p>
+            <p n="13">13. That no future Convention of <hi>Parliamentary Power</hi> be a<g ref="char:EOLhyphen"/>bove Biennial, or do henceforth preſume to exempt their perſons
+<pb n="17" facs="tcp:164957:10"/>from being liable to diſcharge their debts, or to ſatisfie their Credi<g ref="char:EOLhyphen"/>tors by this means. if hereafter we ſhould be ſo unhappy as not to be acquainted with <hi>Parliamentary Juſtice,</hi> or if future <hi>Parliaments</hi> ſhould prove like this, yet their domination being circumſcribed within a limited time, they will (as it is well obſerved) be afraid to commit thoſe inſolencies, which will be avenged them at their return into a private condition.</p>
+            <p n="14">14. And foreſeeing the diſ-joynedneſs of the times, and the op<g ref="char:EOLhyphen"/>poſition we ſtand in to <hi>Ireland,</hi> and other domeſtique and forraign enemies; it will be requiſite that a ſtanding Militia be continued in experienced and approved hands.</p>
+            <p n="15">15. That in order to the removal of jealouſies and fears, it is fur<g ref="char:EOLhyphen"/>ther by us deſired, (as more conducing to a ſpeedy and perfect <hi>Peace</hi>) that an Act of Oblivion may be paſt for inferior offendors, from the benefit whereof we only exclude thoſe whoſe Crimes are Capital, of which number we put in the forefront the corrupt Members of this preſent <hi>Parliament,</hi> with their deputed Creatures and Committees, who either cannot or wil not give account of the publique treaſure by them purloined; theſe in the firſt pla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we deſire may be driven to Reſtitution, or to make their perſons ſatisfie, if they ſhall not diſcover upon their own oaths, or of any other whom they ſhall be required to bring in for the further diſcovery of their eſtates, in order to the intended ſatisfaction: though our profeſsions do not qualifie us to new-mold a State, yet neceſsity having caſt it upon our care, provi<g ref="char:EOLhyphen"/>dence puts us to point at theſe general conducements towards ſo ne<g ref="char:EOLhyphen"/>ceſſary a work, which we caſt in as our mite with the more full and effectual Remonſtrance of the Army.</p>
+            <p n="16">16. That ſuch of the Aſſembly as claim their Authority in the Aſſembly <hi>Jure Divino,</hi> may be ſpeedily abrogated <hi>Jure Humano,</hi> un<g ref="char:EOLhyphen"/>leſs they can make it appear they have not illegally intruded upon their place and power; And that we may hereafter (by all their great expence of time and treaſure) be as much ſatisfied as them<g ref="char:EOLhyphen"/>ſelves. Amongſt ſome of whom the Church Revenues have been parcel'd forth into ſuch large portions as might enable them to main<g ref="char:EOLhyphen"/>tain the pride and luxury of Cardinals, whileſt their forſaken and fleeced Flocks are forced to attend the Alms of others, perhaps more precious for parts and piety, and yet but penſioners to their pride and pluralities, though exceeding them as far in grace as they do others in good livings: Such Lackwings are the Cankerworms of our ſouls,
+<pb n="18" facs="tcp:164957:11"/>as corrupt Committees are the Horſleeches of our Eſtates, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devours our goods, the other our good names: The <hi>Tenents</hi> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one (in matter of Regal Supremacy) are inconſiſtent with the known Laws of the Land, and the other, in point of traiterous practices, for profits ſake, are perfectly principled againſt them.</p>
+            <p n="17">17. Now, to the end we may live at unity amongſt our ſelves, the ſtronger not inſulting over, but bearing with the weaker, and both glorifying God by an unblameable converſation; there is ano<g ref="char:EOLhyphen"/>ther ſort of publique perſons that deſerve to paſs under as ſtrict a Reformation as any we have yet had to do with, they are ſuch as re<g ref="char:EOLhyphen"/>ceive their name from the Law, which they make a noſe of wax; theſe are the great and cloſe ſuckers of our State, and ſuch as have contributed ſo much to the honor of Chriſtianity; that the pens of men of honor and quality have delivered to the world, that the grand Signior of <hi>Conſtantinople</hi> hath more Juſtice done his Subjects in one moneths time, then all the Chriſtian Princes in ſeven years: Theſe are the men for whom (if they may be ſuffered) our ſwords have cut out pleading work for generation to come. And therefore ſince their abſtruſe ſence in a barbarous Dialect, which they expound as they liſt, carries with it the monumental badg of our Normane ſervitude, and the profit the Kingdom receives by it, no way countervails the miſchief that is doth enact: It is our earneſt deſire, that all the Con<g ref="char:EOLhyphen"/>ſtitutions of this Kingdom, both penal and others be abreviated, and clad in the home-ſpun language of our native Nation, that every man might in ſome ſort be able to underſtand and plead his own Cauſe.</p>
+            <p n="18">18. That ſome ſtrict courſe may be taken for preventing that horrid practice of Attorneys in putting men out of the protection of the Law, by out-lawing, before notice be given them of the Suite, though never ſo cauſleſs: And that all ſuch undue proceedings may make the Suite null, &amp;c. that the Remedy be not worſe then the Diſeaſe.</p>
+            <p n="19">19. That to avoyd corruption of Lawyers or their adherents, and to take off mens mindes from litigious contentions, ſome Expedient of determination of differences may be provided, by the appointment of men of known integrity; and parties authorized in every conſider<g ref="char:EOLhyphen"/>able Town or Hundred to decide ordinary Controverſies, ſo that no man be admitted to commence a Suite (ſave in grand Cauſes) with<g ref="char:EOLhyphen"/>out their conceſſion.</p>
+            <p n="20">20. As alſo that both Judges and Pleaders may have their reſpective
+<pb n="19" facs="tcp:164957:11"/>Salleries from the Publique, upon penalty of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all b<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> un<g ref="char:EOLhyphen"/>derſtand obligations Whereupon that example of <hi>Cambices</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> happily be renewed, and put into execution: We need not doubt then but every Tribunal in <hi>England</hi> will have ſomething to hang o<g ref="char:EOLhyphen"/>ver it, that ſhall better inſtruct its ſeveral Judges then all the Letters of Princes or Potentates, or all the Dividends betwixt them and their purſe-bearing Broakers at the end of the Term.</p>
+            <p>But in caſe we now are in, what Juſtice can we expect from any civil Judicature, where the Members of <hi>Parliament,</hi> who ſhould be Law-makers, deſcend for gain ſo far as to be Pleaders in eath com<g ref="char:EOLhyphen"/>mon Court? and ſeeing no Judg ſtandeth but by their Vote, what dares any of them do in aſſerting the old known Laws, when upon every Appeal to the Parliament their <hi>Pleaders</hi> become their <hi>Judges?</hi> And how valiant ſuch Juſtices have been in acqui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing themſelves whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they feared their ſitting beſides their Cuſhions, their behavior in the caſe of Ship-mony ſufficiently ded<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. The ſeveral abuſes throughout the Kingdom for want of faithful Magistrates and for lack of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> exe<g ref="char:EOLhyphen"/>cution of Juſtice and Judgment, doth not only diſtruſt the Army, but alſo very much diſcourage and diſaff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct our beſt friends; for <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>by differences are undecided, becauſe good and godly County-Commiſ<g ref="char:EOLhyphen"/>ſioners are not choſen, nor according to our legal Cuſtome and Con<g ref="char:EOLhyphen"/>ſtitutions impowered to impeach perſons pecc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, of to preſent the <hi>Parliament</hi> with the occaſions of their County. Wherein, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Courts of Judicature were eſtabliſhed throughout the ſeveral Hundreds, and Lawyers appointed to plead at a ſet allowance, Cauſes might be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> juſtly and ſpeedily determined, and all opp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſitions <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſſened or prevented.</p>
+            <p>We might in this ſence enlarge our ſelves in ſeveral reſpects, wherein the condition of this Kingdom is ſo un<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fortable: But, though we take no pleaſure to take in the kennel of ſo much confuſi<g ref="char:EOLhyphen"/>on, yet would we take the pains to clear and cleanſe it, that at the laſt we may attain the true eaj<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>nt of what we have purchaſed at ſo dear a price; that ſo the Authors of our Calamities may re<g ref="char:EOLhyphen"/>ceive their wages according to that Juſtice which their Actions do make them fear. But we hope, by what hath been already ſaid a<g ref="char:EOLhyphen"/>gainſt others, that we have innocence in our hearts and hands to<g ref="char:EOLhyphen"/>wards the Peace of this Nation, for whoſe freedom we will both fight and pray. We intend not in any kinde to continue our Coun<g ref="char:EOLhyphen"/>taies Miſery, but to purſue its Peace and preſervation, in prevention
+<pb n="20" facs="tcp:164957:12"/>of thoſe oppreſſions ſit to be repealed, in regard of thoſe great En<g ref="char:EOLhyphen"/>gagements which are given by us all, rather to make good the happy iſſue of the old, then the beginnings of another new and waſteful War.</p>
+            <p>We have fought for Juſtice and Freedom, the inheritance left us from our forefathers, and it is now become our purchaſe and price of our blood, ſpilt in oppoſition of tyrannical attempts, wherein ſu<g ref="char:EOLhyphen"/>premacy of power cannot legitimate ſcorn or cruelty. And though greatneſs may make injuries more great, <hi>Power</hi> too much improved ſometimes provokes the <hi>Peaſant</hi> to brave the <hi>Prince.</hi> Indeed it is caſie for boundleſs ambition to aſpire, but not ever to continue upper<g ref="char:EOLhyphen"/>moſt. Love and Juſtice are the laſting Conquerors, the trueſt Sup<g ref="char:EOLhyphen"/>porters of a State, without which the moſt tranſcendent Acts of Magiſtracy ſtand tottering, and do either by the wounds of ſepara<g ref="char:EOLhyphen"/>tion bleed to death, or very rarely perpetuate a power to poſterity. But if, by Gods bleſſing upon our loyal hearts and endeavors, this Kingdom ſhall receive its wonted <hi>Peace</hi> and Vigor in the condign puniſhment and ſuppreſſion of all our oppoſers, and the Arch ene<g ref="char:EOLhyphen"/>mies of our common Safety; we ſhall no ſooner ſee <hi>Peace</hi> and <hi>Truth</hi> eſtabliſhed, the Liberty of our Conſciences, according to the Word of God, in Doctrine and Diſcipline, ſecured (for we abhor an uni<g ref="char:EOLhyphen"/>verſal <hi>Teleration:</hi>) but we ſhall be willing immediately to acquit the happy Management of our hitherto ſucceſsful Arms, and betake us to ſuch other employments as the great Creator ſhall call us to.</p>
+            <p>All we ſhall in the <hi>Interim</hi> deſire, is, That the great and wiſe God may be ever more glorified, for working the deliverance of his people by ſuch poor deſpiſed perſons; and that they my receive ſuch fair ac<g ref="char:EOLhyphen"/>ceptance and acknowledgment, for all their faithful performances, that no age hereafter (looking over their neglects) receive diſcou<g ref="char:EOLhyphen"/>ragement to ſacrifice their lives in vindication of the publique Li<g ref="char:EOLhyphen"/>berty.</p>
+            <closer>
+               <dateline>
+                  <hi>H<g ref="char:V">Ʋ</g>LL,</hi> 
+                  <date>
+                     <hi>January 1648.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>By the Appointment of the Officers at a General Meeting.</hi> Signed, JO: HAMINGWAY.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <div type="petition">
+               <pb n="21" facs="tcp:164957:12"/>
+               <head>To the Right Honorable the Su<g ref="char:EOLhyphen"/>pream Authority of the Nation, the Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament. The humble Petition of the Officers and Souldiers of his Excellencies Regiment of Horſe.</head>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat your <hi>Petitioners,</hi> out of a tender reſpect to the work, they have been employed in, and ever ſince this War intruſted with<g ref="char:EOLhyphen"/>all, (by Authority derived from you) have been very cautious of of<g ref="char:EOLhyphen"/>fering any thing that might have the leaſt appearance of ſeeking out ſelves (though ſufficiently known to be our rights) by ſeveral En<g ref="char:EOLhyphen"/>gagements, Promiſes and Declarations of this Honorable Houſe, fearing leaſt by that means we ſhould impead that ſervice, (the pre<g ref="char:EOLhyphen"/>ſervation whereof was more dear to us then our lives,) upon which conſideration we have waded through all difficulties and dangers we have met withal, reſolving, that whatſoever might ſeem of neareſt relation to our ſelves, ſhould bring up the rear of our deſires to your honors, nor ſhould we at this preſent have troubled you, had we not been conſcions that the neglect thereof would have been of very ill confequence. And now ſeeing it hath pleaſed God ſo to own our endeavors, (with the reſt of the Army,) giving teſtimony thereunto by many wonderful ſucceſſes, bringing down all power whatſoever that lifted up it ſelf againſt thoſe juſt and righteous things you de<g ref="char:EOLhyphen"/>clared for; and that you, being the ſupream Authority, having now a ſeaſonable opportunity put into your hands, to anſwer our expecta<g ref="char:EOLhyphen"/>tions more fully, although we cannot but acknowledg that God hath inclined your hearts to accompliſh many of thoſe juſt things which we have long time waited for, ſome things yet retraining undone, which we humbly take boldneſs to be your <hi>Petitioners</hi> for.</p>
+               <list>
+                  <item>
+                     <hi>1.</hi> That all perſons that have been imployed in publique Treaſu<g ref="char:EOLhyphen"/>ries may be ſpeedily brought to an account, and that approved perſons may be impowered for that purpoſe.</item>
+                  <item>
+                     <hi>2.</hi> That our Accounts, in the ſeveral Commands we have been under, may be preſently ſtated, and debenters given us, which debent<g ref="char:EOLhyphen"/>ers
+<pb n="22" facs="tcp:164957:13"/>may be allowed of as others that have lent many upon the Pub<g ref="char:EOLhyphen"/>lique Faith of the Kingdom.</item>
+                  <item>
+                     <hi>3.</hi> That our Accounts ſo ſtated, viſible ſecurity may be ſpeedily given out of Deans and Chapters Lands, or otherways.</item>
+                  <item>
+                     <hi>4.</hi> That where as divers Souldiers have, through the tediouſneſs of the late Services, loſt and ſpoiled their horſes, that therefore care may be taken for their ſatisfaction; ſome having diſhurſt more ma<g ref="char:EOLhyphen"/>ny in buying horſes to ſerve the State in this laſt Expedition, then their pay hath amounted to, and that there may be proviſion made for their future ſupply with horſes.</item>
+                  <item>
+                     <hi>5.</hi> That Free Quarter may be wholly taken off, and that <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ef<g ref="char:EOLhyphen"/>fectual courſe may be taken for a conſtant ſupply of pay to enable us to diſcharge our Quarters, and that the intelerable abuſes we ſuffer in clips mony may be prevented.</item>
+               </list>
+               <p>The Premiſes we earneſtly deſire may be tak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n into your ſpeedy and ſerious Conſideration, and effectual care had for our ſatis<g ref="char:EOLhyphen"/>faction herein.</p>
+               <closer>
+                  <signed>And your Petitioners ſhall pray, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <p>THis Petition was preſented to the General Councal of the Ar<g ref="char:EOLhyphen"/>my, ſitting at Whitehall on Thurſday the <hi>22.</hi> inſtant, (his Ex<g ref="char:EOLhyphen"/>cellency the Lord <hi>Fairfax</hi> preſent,) read and approval of by the whole Councel, and it was agreed, That ſeveral Officers ſhould conſi<g ref="char:EOLhyphen"/>der of the particulars of the ſaid Petition, and prepare a Draught againſt next Councel of ſuch things as might be preſented from them to the Parliament, both for eaſing the burdens of the Common<g ref="char:EOLhyphen"/>wealth, as to Free Quarter, &amp;c. and for proviſion of ſuch things as are due to the Army.</p>
+               <p>Some Officers were alſo appointed to deſire ſuch others as were Members of the Parliament to preſent an Act which is drawn for taking the Accounts of the Common-wealth, and that it may paſs the Parliament as ſoon as may be, in reſpect of the great conſequence of it, and the many Expectations that are upon it: And beſides, that it will raiſe ſeveral ſums of mony hither to concealed or not ac<g ref="char:EOLhyphen"/>compted for.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
